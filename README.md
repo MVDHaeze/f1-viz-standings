@@ -1,1 +1,1 @@
-"#F1 Title Fight Visualization" 
+#F1 Title Fight Visualization
