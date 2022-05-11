@@ -1,12 +1,11 @@
-import logo from "./logo.svg";
 import "./App.css";
-import { Drivers } from "./Components/Drivers";
+import { Constructors } from "./Components/Constructors";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Drivers />
+        <Constructors />
       </header>
     </div>
   );
